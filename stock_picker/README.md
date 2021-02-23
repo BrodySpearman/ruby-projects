@@ -1,0 +1,1 @@
+This algorithm looks at an array of stock prices and returns the best time to buy at and then sell at.
